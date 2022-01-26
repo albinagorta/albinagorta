@@ -113,9 +113,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 - 🖥 &nbsp;
-  ![Scrum]
-  ![Rup]
-  ![XP]
+  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)
+  ![Rup](https://img.shields.io/badge/-Rup-333333?style=flat&logo=rup)
+  ![XP](https://img.shields.io/badge/-XP-333333?style=flat&logo=xp)
 
 <br/>
 
