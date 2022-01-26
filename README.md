@@ -48,10 +48,10 @@
 
  
  ## Back-End Technologies:
-<!-- 
+ 
  <code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="JAVA"/></code>
 <code><img height="50" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="HBS"/></code>
--->
+
 
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png"/></code>
