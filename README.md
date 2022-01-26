@@ -1,9 +1,9 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Gustavo 👨‍💻 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Angel 👨‍💻 
 
-![](https://img.shields.io/github/followers/elmergustavo?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/elmergustavo?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=elmergustavo&style=flat-square&color=ff69b4)
-<a href="https://discord.gg/HJEuJkBq2c">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
+![](https://img.shields.io/github/followers/albinagorta?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/albinagorta?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=albinagorta&style=flat-square&color=ff69b4)
+<a href="https://discord.gg/87722te4">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
 
 <!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
 
@@ -11,14 +11,14 @@
 
 # Redes sociales:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/elmergustavo79" target="_blank"><img src="./assets/social-media/twitter.svg" alt="lolesuncrak" width="30"  /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/elmer-gustavo-p%C3%BA-769b60201/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Elmer Gustavo Pú" width="30" /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:elmergustavo79@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="Elmer Gustavo Pú" /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/elmer.gustavo.79/' target='_blank'><img src='./assets/social-media/facebook.svg' alt='Elmer Gustavo Pú' width='30'/></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://discord.gg/4FtdXrVzeS" target="_blank" ><img src="./assets/discord.svg" alt="mrLuisFer" width='30'></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/avideait" target="_blank"><img src="./assets/social-media/twitter.svg" alt="Angel Albinagorta" width="30"  /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/angel-luis-albinagorta-vargas/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Angel Albinagorta" width="30" /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:avideait@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="Angel Albinagorta" /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/AvideaIT/' target='_blank'><img src='./assets/social-media/facebook.svg' alt='Angel Albinagorta' width='30'/></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://discord.gg/87722te4" target="_blank" ><img src="./assets/discord.svg" alt="Angel Albinagorta" width='30'></a>
 </div>
 
-<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Gustavo | 👨‍💻 Frontend Developer | Guatemala</p>
+<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Angel Albinagorta | 👨‍💻 Full Stack Developer | Perú</p>
 
 
 <br />
@@ -31,8 +31,8 @@
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I study computer science and systems engineering at the Rafael Landívar University.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Systems engineer
+- ✍️ &nbsp; Blog Writing as hobbies/side hustles.
 
 <hr>
 
@@ -57,7 +57,7 @@
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png"/></code>
 <code><img height="50" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
 <code><img height="50" src="https://davidrengifo.files.wordpress.com/2017/09/mongodb-logo.png" alt="MONGO"/></code>
-<code><img height="50" src="https://github.com/elmergustavo/elmergustavo/blob/master/assets/python.svg" alt="Python"/></code>
+<code><img height="50" src="https://github.com/albinagorta/albinagorta/blob/master/assets/python.svg" alt="Python"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"/></code>
 <!-- <code><img height="50" src="https://argoitz.com/wp-content/uploads/2020/03/express-logo.png" alt="EXPRESS"/></code> -->
@@ -67,14 +67,14 @@
 <br/>
 
  <br/>
-    <a href="https://github.com/elmergustavo/elmergustavo"><img alt="" src="https://github-readme-stats.vercel.app/api?username=elmergustavo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/albinagorta/albinagorta"><img alt="" src="https://github-readme-stats.vercel.app/api?username=albinagorta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <!--
-  <a href="https://elmergustavo.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmergustavo&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://albinagorta.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinagorta&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   -- >
 
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmergustavo&show_icons=true&theme=algolia&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=albinagorta&show_icons=true&theme=algolia&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle)
 -->
 
   <!--
@@ -112,7 +112,7 @@
 -->
   
 <!--
-**elmergustavo/elmergustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**albinagorta/albinagorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
