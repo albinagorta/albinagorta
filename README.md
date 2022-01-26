@@ -73,13 +73,11 @@
  
   <a href="https://albinagorta.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinagorta&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  -- >
 
-<!--
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=albinagorta&show_icons=true&theme=algolia&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle)
 
-
-  <!--
+<!--
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
