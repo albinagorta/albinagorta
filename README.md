@@ -100,22 +100,35 @@
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+
+- 📴 &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![React Native](https://img.shields.io/badge/-ReactNavite-333333?style=flat&logo=react)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Sublime text](https://img.shields.io/badge/-Sublime%20text-333333?style=flat&logo=sublimetext)
+  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
+  ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-- 🖥 &nbsp;
+- ✨ &nbsp;
   ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)
   ![Rup](https://img.shields.io/badge/-Rup-333333?style=flat&logo=rup)
   ![XP](https://img.shields.io/badge/-XP-333333?style=flat&logo=xp)
+
+- ✔️ &nbsp;
+  ![Itil](https://img.shields.io/badge/-Itil-v3-333333?style=flat&logo=itil)
 
 <br/>
 
