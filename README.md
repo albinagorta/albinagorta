@@ -52,6 +52,8 @@
  <code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="JAVA"/></code>
 <code><img height="50" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="HBS"/></code>
 
+<code><img height="50" src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icono-de-lenguaje-de-programacion-php.png" alt="HBS"/></code>
+
 
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png"/></code>
@@ -60,22 +62,22 @@
 <code><img height="50" src="https://raw.githubusercontent.com/albinagorta/albinagorta/main/assets/python.svg" alt="Python"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"/></code>
-<!-- <code><img height="50" src="https://argoitz.com/wp-content/uploads/2020/03/express-logo.png" alt="EXPRESS"/></code> -->
-<!--  <code><img height="50" src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="EJS"/></code>  -->
+<code><img height="50" src="https://argoitz.com/wp-content/uploads/2020/03/express-logo.png" alt="EXPRESS"/></code>
+ <code><img height="50" src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="EJS"/></code> 
 
 
 <br/>
 
  <br/>
     <a href="https://github.com/albinagorta/albinagorta"><img alt="" src="https://github-readme-stats.vercel.app/api?username=albinagorta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <!--
+ 
   <a href="https://albinagorta.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinagorta&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   -- >
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=albinagorta&show_icons=true&theme=algolia&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle)
--->
+
 
   <!--
 - 💻 &nbsp;
