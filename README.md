@@ -4,6 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/albinagorta?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=albinagorta&style=flat-square&color=ff69b4)
 <a href="https://discord.gg/87722te4">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
+<a href="https://youtube.com/avideait">![Youtube](https://img.shields.io/youtube/avideait?logo=youtube&style=flat-square&label=AvideaIT)</a>
 
 <!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
 
@@ -127,8 +128,6 @@
   ![Rup](https://img.shields.io/badge/-Rup-333333?style=flat&logo=rup)
   ![XP](https://img.shields.io/badge/-XP-333333?style=flat&logo=xp)
 
-- ✔️ &nbsp;
-  ![Itil](https://img.shields.io/badge/-Itil-v3-333333?style=flat&logo=itil)
 
 <br/>
 
